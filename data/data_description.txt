@@ -30,7 +30,7 @@ MSZoning: Identifies the general zoning classification of the sale.
 	
 (done) LotFrontage: Linear feet of street connected to property
 
-LotArea: Lot size in square feet
+(done) LotArea: Lot size in square feet
 
 (done) Street: Type of road access to property
 
@@ -43,7 +43,7 @@ LotArea: Lot size in square feet
        Pave	Paved
        NA 	No alley access
 		
-LotShape: General shape of property
+(done) LotShape: General shape of property
 
        Reg	Regular	
        IR1	Slightly irregular
@@ -364,7 +364,7 @@ Electrical: Electrical system
 
 LowQualFinSF: Low quality finished square feet (all floors)
 
-GrLivArea: Above grade (ground) living area square feet
+(done) GrLivArea: Above grade (ground) living area square feet
 
 BsmtFullBath: Basement full bathrooms
 
