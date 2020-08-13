@@ -1,4 +1,4 @@
-MSSubClass: Identifies the type of dwelling involved in the sale.	
+(done) MSSubClass: Identifies the type of dwelling involved in the sale.	
 
         20	1-STORY 1946 & NEWER ALL STYLES
         30	1-STORY 1945 & OLDER
@@ -28,16 +28,16 @@ MSZoning: Identifies the general zoning classification of the sale.
        RP	Residential Low Density Park 
        RM	Residential Medium Density
 	
-LotFrontage: Linear feet of street connected to property
+(done) LotFrontage: Linear feet of street connected to property
 
 LotArea: Lot size in square feet
 
-Street: Type of road access to property
+(done) Street: Type of road access to property
 
        Grvl	Gravel	
        Pave	Paved
        	
-Alley: Type of alley access to property
+(done) Alley: Type of alley access to property
 
        Grvl	Gravel
        Pave	Paved
@@ -149,7 +149,7 @@ HouseStyle: Style of dwelling
        SFoyer	Split Foyer
        SLvl	Split Level
 	
-OverallQual: Rates the overall material and finish of the house
+(done) OverallQual: Rates the overall material and finish of the house
 
        10	Very Excellent
        9	Excellent
@@ -162,7 +162,7 @@ OverallQual: Rates the overall material and finish of the house
        2	Poor
        1	Very Poor
 	
-OverallCond: Rates the overall condition of the house
+(done) OverallCond: Rates the overall condition of the house
 
        10	Very Excellent
        9	Excellent
@@ -175,9 +175,9 @@ OverallCond: Rates the overall condition of the house
        2	Poor
        1	Very Poor
 		
-YearBuilt: Original construction date
+(done) YearBuilt: Original construction date
 
-YearRemodAdd: Remodel date (same as construction date if no remodeling or additions)
+(done) YearRemodAdd: Remodel date (same as construction date if no remodeling or additions)
 
 RoofStyle: Type of roof
 
@@ -239,7 +239,7 @@ Exterior2nd: Exterior covering on house (if more than one material)
        Wd Sdng	Wood Siding
        WdShing	Wood Shingles
 	
-MasVnrType: Masonry veneer type
+(done) MasVnrType: Masonry veneer type
 
        BrkCmn	Brick Common
        BrkFace	Brick Face
@@ -247,7 +247,7 @@ MasVnrType: Masonry veneer type
        None	None
        Stone	Stone
 	
-MasVnrArea: Masonry veneer area in square feet
+(done) MasVnrArea: Masonry veneer area in square feet
 
 ExterQual: Evaluates the quality of the material on the exterior 
 		
