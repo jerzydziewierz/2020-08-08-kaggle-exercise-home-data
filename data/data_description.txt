@@ -429,11 +429,11 @@ GarageFinish: Interior finish of the garage
        Unf	Unfinished
        NA	No Garage
 		
-GarageCars: Size of garage in car capacity
+(done) GarageCars: Size of garage in car capacity
 
-GarageArea: Size of garage in square feet
+(done) GarageArea: Size of garage in square feet
 
-GarageQual: Garage quality
+(done) GarageQual: Garage quality
 
        Ex	Excellent
        Gd	Good
@@ -442,7 +442,7 @@ GarageQual: Garage quality
        Po	Poor
        NA	No Garage
 		
-GarageCond: Garage condition
+(done) GarageCond: Garage condition
 
        Ex	Excellent
        Gd	Good
