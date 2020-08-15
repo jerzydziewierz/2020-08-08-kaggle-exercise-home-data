@@ -2,6 +2,7 @@ reference tutorials/**
 
 *.ipynb_checkpoints
 
+*.cpython-*
 
 
 
